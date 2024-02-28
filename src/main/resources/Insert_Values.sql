@@ -5,7 +5,7 @@ INSERT INTO address (address_id, line1, line2, city, state, zip)
 VALUES
 (2000001, '123 Main St', 'Apt 4', 'Cityville', 'CA', '12345'),
 (2000002, '456 Oak Ave', NULL, 'Townton', 'NY', '56789'),
-(2000003, '789 Pine Rd', 'Suite 12', 'Villageton', 'TX', '98765'),
+(2000003, '789 Pine Rd', 'Suite 12', 'Villageton', 'TX', '98765'), 
 (2000004, '101 Elm St', NULL, 'Hamletville', 'FL', '54321'),
 (2000005, '202 Maple Blvd', 'Unit 8', 'Village Center', 'IL', '67890'),
 (2000006, '303 Cedar Lane', NULL, 'Townsville', 'AZ', '13579'),
